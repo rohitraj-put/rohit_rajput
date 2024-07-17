@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import logo from '../Image/logo.png'
+import logo from '../Image/logoweb.png'
 import TypingAnimator from 'react-typing-animator';
 import DownloadCV from '../Image/resume/resume.pdf'
 

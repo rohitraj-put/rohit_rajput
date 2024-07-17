@@ -6,6 +6,8 @@ import netflix from '../Image/netflix.png'
 import jupiter from '../Image/jupiter.png'
 import hostel from '../Image/hostel.png'
 import mantra from '../Image/mantraShop.png'
+import jinle from '../Image/jingle.png'
+import Caratglitz from '../Image/caratglitz.png'
 
 const Project = (props) => {
   useEffect(() => {
@@ -16,6 +18,14 @@ const Project = (props) => {
   let live = "LIVE CODE"
 
   const mainpros = [
+    {
+      srcname: Caratglitz,
+      proroot: 'https://caratglitzwebsite.netlify.app/'
+    },
+    {
+      srcname: jinle,
+      proroot: 'https://jingleholiday.netlify.app/'
+    },
     {
       srcname: hostel,
       proroot: 'https://hostel-hop.netlify.app/'
