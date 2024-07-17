@@ -9,6 +9,8 @@ import tech from './Image/tech.png'
 import Review from './portfolio/Review';
 import Skills from './portfolio/Skills';
 import Loading from './portfolio/Loading';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 
 

@@ -17,7 +17,7 @@ const About = (props) => {
 
                     <div className='matterabout' data-aos={"zoom-in-down"}>
                         <h1>Get to know me!</h1>
-                        <p style={{ marginTop: "30px", lineHeight: "30px", fontSize: "18px", textAlign: 'justify' }}>I'm a <strong>Frontend Developer</strong> building the Front-end of Websites and Web Applications that leads to the success of the overall product. Check out some of my work in the Projects section.<br /><br />
+                        <p style={{ marginTop: "30px", lineHeight: "30px", fontSize: "18px", textAlign: 'justify' }}>I'm a <strong>Frontend Developer</strong> at <strong>Namrata Universal</strong>  building the Front-end of Websites and Web Applications that leads to the success of the overall product. Check out some of my work in the Projects section.<br /><br />
 
                             I also like sharing content related to the stuff that I have learned over the years in <strong>Web Development</strong> so it can help other people of the Dev Community. Feel free to Connect or Follow me on my <a target='_blank' href='https://www.linkedin.com/in/rohit-rajput-31058125b'>Linkedin</a> where I post useful content related to Web Development and Programming.<br /><br />
 

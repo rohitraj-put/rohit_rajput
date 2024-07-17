@@ -1,21 +1,22 @@
 import React from 'react'
 
+
 const Review = () => {
     let feedNames = [
         {
             imgsrc: "https://gogil.aimcomely.com/webassets/images/user.png",
-            contant: "sense of accomplishment and encourages players to keep progressing and exploring new levels and challenges.",
-            uname: ".....Lorem"
+            contant: "Rohit is an outstanding frontend developer whose technical skills, attention to detail, and collaborative spirit greatly contribute to the success of our team. I highly recommend them for any future projects or opportunities.",
+            uname: ".....Yatin Yadav"
         },
         {
             imgsrc: "https://gogil.aimcomely.com/webassets/images/user.png",
-            contant: "sense of accomplishment and encourages players to keep progressing and exploring new levels and challenges.",
-            uname: ".....Lorem"
+            contant: "Additionally, Rohit is committed to their professional development. They actively pursue new learning opportunities and stay up-to-date with the latest industry trends. This commitment is evident in the innovative solutions they bring to our projects.",
+            uname: ".....Aaditya"
         },
         {
             imgsrc: "https://gogil.aimcomely.com/webassets/images/user.png",
-            contant: "sense of accomplishment and encourages players to keep progressing and exploring new levels and challenges.",
-            uname: ".....Lorem"
+            contant: "standout qualities is their meticulous attention to detail. They ensure that every user interface they design is pixel-perfect and functions flawlessly across various devices and browsers. Their code is always clean, maintainable, and well-documented, which significantly enhances our team’s efficiency and project maintainability.",
+            uname: ".....Nitish"
         }
     ]
 
