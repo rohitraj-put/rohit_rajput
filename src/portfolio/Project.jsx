@@ -79,7 +79,7 @@ const Project = (props) => {
               <div className='pro_subSection' data-aos="fade-right">
                 <img src={item.srcname} />
               </div>
-              <div className='pro_subSection' style={{ padding: '40px' }} data-aos="fade-left">
+              <div className='pro_subSection con_sec' data-aos="fade-left">
                 <p style={{ lineHeight: "28px", fontSize: "18px" }}>{item.conatnt}</p>
                 <button className='live-code'><a href={item.proroot} target='_blank' rel="noreferrer">{live}</a></button>
               </div>

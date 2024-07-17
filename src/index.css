@@ -420,6 +420,10 @@ main .left {
 
 }
 
+.con_sec {
+  padding: 40px;
+}
+
 .box-pro img {
   width: 100%;
   height: 70%;
@@ -630,6 +634,9 @@ footer {
     display: none;
   }
 
+  .con_sec {
+    padding: 0px;
+  }
 
   .newbox {
     display: block;
